@@ -1,9 +1,8 @@
-Portfolio
 My current 2024 portfolio, any changes will be pushed to this repo. Responsive sleek design integrated with my custom logo.
 
 **Link to project:** https://codebymv.netlify.app/
 
-![alt tag](https://i.postimg.cc/rp0Kd4jr/Screenshot-2024-08-08-161429.png)
+![alt tag](https://gifyu.com/image/SDgJa)
 
 ## How It's Made:
 
