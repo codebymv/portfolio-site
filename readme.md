@@ -2,7 +2,7 @@ My current 2024 portfolio, any changes will be pushed to this repo. Responsive s
 
 **Link to project:** https://codebymv.netlify.app/
 
-![alt tag](https://gifyu.com/image/SDgJa)
+![alt tag]([https://gifyu.com/image/SDgJa](https://s10.gifyu.com/images/SDgJa.gif))
 
 ## How It's Made:
 
