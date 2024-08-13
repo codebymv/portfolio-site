@@ -1,4 +1,4 @@
-# My Awesome Project
+Portfolio
 My current 2024 portfolio, any changes will be pushed to this repo. Responsive sleek design integrated with my custom logo.
 
 **Link to project:** https://codebymv.netlify.app/
