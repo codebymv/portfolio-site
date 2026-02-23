@@ -155,7 +155,7 @@
 			// Add these options for better mobile support
 			touchRatio: 1,
 			simulateTouch: true,
-			gabCursor: true,
+			grabCursor: true,
 			breakpoints: {
 				// when window width is <= 768px
 				768: {
